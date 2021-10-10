@@ -1,5 +1,5 @@
 # This file is for testing the PNN
-# you will need to make some changes if since the data isn't available
+# you will need to make some changes since the data isn't available
 
 
 import torch
